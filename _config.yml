@@ -16,7 +16,7 @@ title-img: /assets/img/attalitech-logo-light.png
 
 site-css: "/assets/css/attalitech.css"
 
-keywords: "r shiny,shiny developer,shiny consultant,r consultant,shiny apps"
+keywords: "habibur, habib's,Habib, habibur rahaman,"
 
 mobile-theme-col: "#0085A1"
 navbar-col: "#05172d"
@@ -24,19 +24,17 @@ navbar-text-col: "#fff"
 navbar-border-col: "#05172d"
 
 social-network-links:
-  email: "info@attalitech.com"
-  github: daattali
-  twitter: daattali
-  calendly: "attalitech/meeting"
+  email: "habiburhub@gmail.com"
+  github: HabibSuite
+  twitter: HabibSuite
   youtube: "c/daattali?sub_confirmation=1"
-  patreon: DeanAttali
-  telephone: +16042274469
+  
 
-url-pretty: "AttaliTech.com"
+url-pretty: "Habib Tech"
 
 footer-img: "/assets/img/footer-bg.png"
 
-gtag: "G-Y80XD5LXBY"
+# gtag: "G-Y80XD5LXBY"
 
 timezone: "America/Toronto"
 markdown: kramdown
