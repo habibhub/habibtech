@@ -14,7 +14,7 @@ navbar-links:
 
 title-img: /assets/img/habibtech-logo-light.png
 
-site-css: "/assets/css/attalitech.css"
+site-css: "/assets/css/habibtech.css"
 
 keywords: "habibur, habib's,Habib, habibur rahaman,"
 
@@ -27,7 +27,6 @@ social-network-links:
   email: "habiburhub@gmail.com"
   github: HabibSuite
   twitter: HabibSuite
-  youtube: "c/daattali?sub_confirmation=1"
   
 
 url-pretty: "Habib Tech"
@@ -36,7 +35,7 @@ footer-img: "/assets/img/footer-bg.png"
 
 # gtag: "G-Y80XD5LXBY"
 
-timezone: "America/Toronto"
+timezone: "India/Kolkata"
 markdown: kramdown
 highlighter: rouge
 
@@ -52,7 +51,7 @@ defaults:
       footer-extra: custom_footer.html
       nav-short: true
       share-description: "AttaliTech provides world-class R/Shiny consulting and development services. We develop enterprise Shiny apps, perform code audits, build professional R packages, and more. Led by renowned expert Dean Attali."
-      share-img: "/assets/img/attalitech.png"
+      share-img: "/assets/img/habibtech.png"
 
 exclude:
   - CNAME
