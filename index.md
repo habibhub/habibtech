@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "AttaliTech | Expert R-Shiny Consulting"
+title: "HabibTech | Expert R-Shiny Consulting"
 css:
   - /assets/css/index.css
 ext-css:
@@ -15,7 +15,7 @@ ext-js:
 
 <div id="header-inner" markdown="1">
 
-# AttaliTech {#title}
+# HabibTech {#title}
 
 ## R-Shiny Consulting {#subtitle}
 
