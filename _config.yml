@@ -1,9 +1,7 @@
 remote_theme: daattali/beautiful-jekyll
 
-
 title: Habib Tech
-
-author: Habib Tech
+author: Habib
 
 navbar-links:
   Services: "/#services"
@@ -25,15 +23,15 @@ navbar-border-col: "#05172d"
 
 social-network-links:
   email: "habiburhub@gmail.com"
-  github: HabibSuite
-  twitter: HabibSuite
-  
+  facebook: habibsuite
+  github: habibhub
+  twitter: arlinakiky
 
 url-pretty: "Habib Tech"
 
 footer-img: "/assets/img/footer-bg.png"
 
-# gtag: "G-Y80XD5LXBY"
+# gtag: ""
 
 timezone: "India/Kolkata"
 markdown: kramdown
@@ -50,7 +48,7 @@ defaults:
       layout: "page"
       footer-extra: custom_footer.html
       nav-short: true
-      share-description: "AttaliTech provides world-class R/Shiny consulting and development services. We develop enterprise Shiny apps, perform code audits, build professional R packages, and more. Led by renowned expert Dean Attali."
+      share-description: "Welcome to Habib's collection on Religion, Astronomy, Mathematics, Technology, Hobbies and Everything I finds interesting."
       share-img: "/assets/img/habibtech.png"
 
 exclude:
@@ -59,10 +57,8 @@ exclude:
   - Gemfile.lock
   - README.md
 
-
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
